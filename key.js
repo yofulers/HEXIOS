@@ -3,7 +3,7 @@ function login() {
           var username = document.getElementById("username").value;
           
  
-          if (username === "HEXIOS-2024") {
+          if (username === "ZBI") {
             // Lưu tên đăng nhập và mật khẩu vào Local Storage
            // localStorage.setItem("username", username);
            // localStorage.setItem("password", password);
